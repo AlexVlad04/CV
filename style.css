@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(red,yellow,green,blue,indigo) ;
+    height: 100%;
+}
+hr{
+    border-style: dotted none none;
+    border-width: 9px;
+    color: white;
+    width: 50%;
+    
+    
+}
+h1, h3{
+    color:#66BFBF;
+}
+h3 a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #66BFBF;
+}
+p a {
+    color: skyblue;
+}
+fieldset legend{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
